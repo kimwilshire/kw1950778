@@ -1,6 +1,6 @@
 /* 
  * File:   main.cpp
- * Author: rcc
+ * Author: Kim Wilshire
  *
  * Created on January 7, 2016, 6:37 PM
  */
@@ -13,6 +13,7 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
+  
     cout << "Hello World" << endl;
     return 0;
 }

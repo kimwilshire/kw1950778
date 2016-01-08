@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Debug=hellowrld
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/hellowrld
+CND_ARTIFACT_NAME_Debug=hellowrld_1
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/hellowrld_1
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Debug=hellowrld.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/hellowrld.tar
+CND_PACKAGE_NAME_Debug=hellowrld1.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/hellowrld1.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Release=hellowrld
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/hellowrld
+CND_ARTIFACT_NAME_Release=hellowrld_1
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/hellowrld_1
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Release=hellowrld.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/hellowrld.tar
+CND_PACKAGE_NAME_Release=hellowrld1.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/hellowrld1.tar
 #
 # include compiler specific variables
 #
